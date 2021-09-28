@@ -3,11 +3,11 @@
 
 
 
-*{margin:0 !important;padding:0 !important;box-sizing:border-box;}
-body{display:grid;align-content:center;justify-content:center;background:lightyellow}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{display:grid;align-content:center;justify-content:center;margin-top:-100px;background-color:lightwhite}
 
 
 
-#head1{font-family: 'Grenze Gotisch', cursive;font-size:10.5vw;color:lightseagreen;text-align:center;}
-#head2{font-family: 'Great Vibes', cursive;color:navy;text-align:center;font-size:10.5vw}
-#head2:after{content:"\f005";font-family:"Font Awesome 5 Free";display:block;margin:0 auto;border-bottom:0.2vw solid royalblue;color:mediumpurple;width:calc(100vw - 70vw);height:6.5vw;}
+#head1{font-family: 'Grenze Gotisch', cursive;font-size:12vw;color:lightseagreen;text-align:center;}
+#head2{font-family: 'Great Vibes', cursive;color:navy;text-align:center;font-size:12vw}
+#head2:after{content:"\f005";font-family:"Font Awesome 5 Free";display:block;margin:0 auto;border-bottom:0.3vw solid royalblue;color:mediumpurple;width:calc(100vw - 70vw);height:7.5vw;}
