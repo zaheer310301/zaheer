@@ -9,4 +9,4 @@
 
 #head1{font-family: 'Grenze Gotisch', cursive;font-size:5vw;color:lightseagreen;text-align:center;margin-top:15vh}
 #head2{font-family: 'Great Vibes', cursive;color:navy;text-align:center;font-size:5vw}
-#head2:after{content:"\f005";font-family:"Font Awesome 5 Free";display:block;margin:0 auto;border-bottom:5px solid royalblue;color:mediumpurple;width:calc(100vw - 70vw);height:65;}
+#head2:after{content:"\f005";font-family:"Font Awesome 5 Free";display:block;margin:0 auto;border-bottom:5px solid royalblue;color:mediumpurple;width:calc(100vw - 70vw);height:65px;}
