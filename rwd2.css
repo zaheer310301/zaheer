@@ -8,6 +8,6 @@ body{display:grid;align-content:center;justify-content:center;}
 
 
 
-#head1{font-family: 'Grenze Gotisch', cursive;font-size:10.5vw;color:lightseagreen;text-align:center;}
+#head1{font-family: 'Grenze Gotisch', cursive;font-size:10.5vw;color:lightseagreen;text-align:center;margin-top:-200px}
 #head2{font-family: 'Great Vibes', cursive;color:navy;text-align:center;font-size:10.5vw}
-#head2:after{content:"\f005";font-family:"Font Awesome 5 Free";display:block;margin:0 auto;border-bottom:0.2vw solid royalblue;color:mediumpurple;width:calc(100vw - 70vw);height:3vh;}
+#head2:after{content:"\f005";font-family:"Font Awesome 5 Free";display:block;margin:0 auto;border-bottom:0.2vw solid royalblue;color:mediumpurple;width:calc(100vw - 70vw);height:13vh;}
