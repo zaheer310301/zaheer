@@ -7,6 +7,6 @@
 
 
 
-#head1{font-family: 'Grenze Gotisch', cursive;font-size:5vw;color:lightseagreen;text-align:center;margin-top:15vh}
-#head2{font-family: 'Great Vibes', cursive;color:navy;text-align:center;font-size:5vw}
+#head1{font-family: 'Grenze Gotisch', cursive;font-size:10vw;color:lightseagreen;text-align:center;margin-top:15vh}
+#head2{font-family: 'Great Vibes', cursive;color:navy;text-align:center;font-size:10vw}
 #head2:after{content:"\f005";font-family:"Font Awesome 5 Free";display:block;margin:0 auto;border-bottom:0.2vw solid royalblue;color:mediumpurple;width:calc(100vw - 70vw);height:5.5vh;}
